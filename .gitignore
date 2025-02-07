@@ -1,0 +1,36 @@
+# 🛑 Fichiers de configuration sensibles
+wp-config.php
+wp-config-sample.php
+
+# 🛑 Dossiers WordPress Core (inutile de versionner WP)
+wp-admin/
+wp-includes/
+
+# 🛑 Dossiers de cache et temporaires
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+
+# 🛑 Fichiers de logs
+*.log
+debug.log
+
+# 🛑 Clés SSH, fichiers de sauvegarde et de configuration serveur
+*.pem
+*.sql
+*.tar.gz
+*.zip
+*.bak
+*.env
+
+# 🛑 Dépendances et outils locaux
+node_modules/
+vendor/
+composer.lock
+package-lock.json
+
+# 🛑 Fichiers générés par IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
