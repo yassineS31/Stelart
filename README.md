@@ -1,13 +1,12 @@
 # Stelart
-E-commerce couple d'artiste 
+E-commerce couple d'artistes 
 
 
-Projet pour un couple d'artiste qui peint des aliens sur toile, présentation des artistes, de leurs oeuvres et zone d'achat e-commerce 
-DA Alien, SCI-FI
+Site vitrine et e-commerce pour un duo d’artistes passionnés de science-fiction. Leur univers pictural, peuplé d’aliens et d’êtres venus d’ailleurs, est mis en lumière à travers une direction artistique immersive mêlant codes Alien et Sci-Fi.
 
 
 L'accueil : 
-Couple d'alien représentant les deux artiste
+Site web conçu pour un couple d’artistes incarnés par deux personnages aliens. Le projet met en avant leur univers artistique singulier, leurs œuvres peintes à la main, et intègre une boutique en ligne pour l’achat de leurs créations. Direction artistique : Alien, Science-Fiction.
 ![Capture d'écran 2025-02-07 103156](https://github.com/user-attachments/assets/49b83760-73dd-481d-a003-a96cd30d6170)
 
 
@@ -15,7 +14,7 @@ Introduction à l'univers de Stell'Art
 ![Capture d'écran 2025-02-07 103216](https://github.com/user-attachments/assets/62f7854a-c7be-4b67-a131-13646a1a26df)
 
 
-Présentation des services, mise en avant des méthodes de production des oeuvres :
+Présentation des services, mise en avant des méthodes de productions de leurs oeuvres :
 ![Capture d'écran 2025-02-07 103206](https://github.com/user-attachments/assets/005a14a7-8790-4682-b949-d4764957cf66)
 
 
@@ -35,7 +34,7 @@ E-commerce :
 ![Capture d'écran 2025-02-07 103437](https://github.com/user-attachments/assets/a3ce35fb-ca05-4949-95ce-7624227845b1)
 
 
-Chaque oeuvre à sa description :
+Chaque oeuvre a sa propre description :
 ![Capture d'écran 2025-02-07 103545](https://github.com/user-attachments/assets/c50f541c-d83a-4a1c-991c-59fe8949667e)
 
 
