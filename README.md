@@ -6,7 +6,7 @@ Site vitrine et e-commerce pour un duo d’artistes passionnés de science-ficti
 
 
 L'accueil : 
-Site web conçu pour un couple d’artistes incarnés par deux personnages aliens. Le projet met en avant leur univers artistique singulier, leurs œuvres peintes à la main, et intègre une boutique en ligne pour l’achat de leurs créations. Direction artistique : Alien, Science-Fiction.
+Le couple d’artistes est incarné par deux personnages aliens. Le projet met en avant leur univers artistique singulier, leurs œuvres peintes à la main, et intègre une boutique en ligne pour l’achat de leurs créations. Direction artistique : Alien, Science-Fiction.
 ![Capture d'écran 2025-02-07 103156](https://github.com/user-attachments/assets/49b83760-73dd-481d-a003-a96cd30d6170)
 
 
